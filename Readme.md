@@ -1,5 +1,5 @@
 
-![Profile GIF](x?raw=true)
+![Profile GIF](https://github.com/tariqulislamrahat/tariqulislamrahat/blob/e65a80871d6b5d63389f4e9d1adf90fa2f2c1901/cover'.gif?raw=true)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tariqulislamrahaat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tariqulislaam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqul-islam-rahat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tariqulislam_) 
 
